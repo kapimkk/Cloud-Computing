@@ -1,0 +1,15 @@
+{
+    "total_alunos": 2,
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Ana Silva",
+            "curso": "ADS"
+        },
+        {
+            "id": 2,
+            "nome": "Bruno Costa",
+            "curso": "Ciência de Dados"
+        }
+    ]
+}
